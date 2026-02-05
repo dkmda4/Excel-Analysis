@@ -8,7 +8,6 @@ The workbook covers core spreadsheet techniques used in real-world data roles, i
 The focus is on using Excel not just as a calculator, but as a data analysis and decision-support tool.
 
 
-
 ## 📂 Data Sources
 
 Multiple small datasets were used across the workbook, including:
@@ -28,11 +27,11 @@ The workbook includes the following core analytical tasks:
 
 ### 1. Data Preparation & Filtering
 
-<img width="156" height="234" alt="image" src="https://github.com/user-attachments/assets/bc7a2d14-3ddf-424d-83f4-ad8663b8fa13" /> <br>
+<img width="999" height="1150" alt="Screenshot 2026-02-04 at 23 58 04" src="https://github.com/user-attachments/assets/c52431ee-4d12-46b2-b6f9-b353dd886405" /> <br>
 
-<img width="338" height="222" alt="image" src="https://github.com/user-attachments/assets/27fa985f-b1f6-4e5a-bf90-4c394554ce2e" /> <br>
+ <<img width="997" height="1143" alt="Screenshot 2026-02-04 at 23 59 30" src="https://github.com/user-attachments/assets/aa8a9e85-09cc-4ee9-9f3c-ef66a50f7c5e" /> <br>
 
-<img width="406" height="115" alt="image" src="https://github.com/user-attachments/assets/2eed84b3-ae0f-4bb1-8647-4f9da8a1cb9f" /> <br>
+<img width="1051" height="195" alt="Screenshot 2026-02-05 at 00 00 58" src="https://github.com/user-attachments/assets/7165a10b-ab33-4941-be6d-d8b78a8a5418" /> <br>
 
 
 	•	Converted raw datasets into Excel Tables
@@ -98,9 +97,8 @@ Why this matters analytically:
 	•	Markets
 	•	Demographic segments
 	•	Interpreted trends and provided written insights
-
-<img width="231" height="156" alt="image" src="https://github.com/user-attachments/assets/7f470646-b9a0-4273-9b0f-338a2999640f" /> <br>
-<img width="232" height="157" alt="image" src="https://github.com/user-attachments/assets/44b78256-0a78-47b3-a55e-b83685a41eca" /> <br>
+ <img width="1114" height="700" alt="Screenshot 2026-02-05 at 00 17 08" src="https://github.com/user-attachments/assets/845edf49-a2c3-4fec-88cd-8806647c0b9b" /> <br>
+<img width="1113" height="701" alt="Screenshot 2026-02-05 at 00 13 49" src="https://github.com/user-attachments/assets/8ce2b024-b32e-495a-b750-e3ab447a60e6" /> <br>
 
 
 
